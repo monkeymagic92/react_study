@@ -17,6 +17,6 @@ const listItems = products.map(product =>
 
 export default function Study() {
   return (
-      <ul>{listItems}</ul>
+      <ul>{listItems}   ::   test</ul>
   )
 }
