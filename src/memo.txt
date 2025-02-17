@@ -1,0 +1,4 @@
+2025.02.17
+    - https://ko.react.dev/learn/javascript-in-jsx-with-curly-braces
+
+        - UI 표현하기 > '중괄호가 있는 JSX안에서 자바스크립트 사용 하기'  부분부터 하면됨
